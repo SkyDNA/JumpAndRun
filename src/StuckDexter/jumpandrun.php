@@ -200,7 +200,7 @@ $level = $this->plugin->getServer()->getDefaultLevel();
         $t->setText("§7====§l§b".$jar."§r§7====", "§61. ".$config->getNested($jar.".1Player")." ".$config->getNested($jar.".1Time"), "§72. ".$config->getNested($jar.".2Player")." ".$config->getNested($jar.".2Time"), "§a3. ".$config->getNested($jar.".3Player")." ".$config->getNested($jar.".3Time"));
         }
 }
-}
-}
-}
+
+
+
 
